@@ -62,8 +62,8 @@ I've tried to give proper credit to the different authors the best I can, but if
 
 Basically you can use this code for your personal purposes, but it would be very nice if you cite it. You can do it like this:
 
-Gonzalez-Vargas Andres. (2024). Mathematics and Python Fundamentals for Machine Learning and Data Science Course Materials. GitHub. https://github.com/amgonzalezvargas/001_machine_learning_course
-
+Gonzalez-Vargas Andres. (2024). Mathematics and Python Fundamentals for Machine Learning and Data Science Course Materials. GitHub. [https://github.com/amgonzalezvargas/001_machine_learning_course
+](https://github.com/amgonzalezvargas/002_math_python_fundamentals_course)
 MIT License
 
 Copyright (c) 2024 Andres M. Gonzalez Vargas
